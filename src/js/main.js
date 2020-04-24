@@ -17,3 +17,4 @@ const $ = require( "jquery" )( window );
 // import vendorApp from './vendor/vendor.js';
 
 
+console.log('worked');
